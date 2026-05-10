@@ -8,3 +8,4 @@ abstract class Controller {
         require_once BASE_PATH . '/views/footer.php';
     }
 }
+?>
